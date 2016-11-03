@@ -1,0 +1,19 @@
+a{
+    margin:15px;
+    padding: 20px;
+    background-color: rgba(81,195,123,0.6);
+    border-radius: 10px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #F3E3E3;
+    font-family: fantasy;
+    display: inline-block;
+    text-align: center;
+    margin-top: 100px;
+}
+
+a:hover{
+    background-color: rgba(235,167,221,0.5);
+    transition: all 500ms ease;
+    font-size: 20px;
+}
